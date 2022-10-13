@@ -1,0 +1,8 @@
+INSERT INTO bears (1, 'Mr. Chocolate', 10, 'M', 'Brown', 'Calm', 0)
+INSERT INTO bears (1, 'Rowdy', 19, 'M', 'Black', 'Angry', 1)
+INSERT INTO bears (1, 'Tabitha', 10, 'F', 'Green', 'Happy', 1)
+INSERT INTO bears (1, 'Sergeant Brown', 20, 'M', 'Dark Green', 'Dangerous', 0)
+INSERT INTO bears (1, 'Melissa', 10, 'F', 'Brown', 'High', 1)
+INSERT INTO bears (1, 'Grinch', 12, 'M', 'Dark Brown', 'Jolly', 0)
+INSERT INTO bears (1, 'Wendy', 8, 'F', 'Black', 'Ferocious', 1)
+INSERT INTO bears (1, null, 15, 'F', 'Brown', 'Acute', 1)
